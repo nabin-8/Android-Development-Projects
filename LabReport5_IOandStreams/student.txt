@@ -1,0 +1,4 @@
+Demo of scanner buffer calss copying file
+one 
+from
+another

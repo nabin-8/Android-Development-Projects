@@ -13,11 +13,15 @@ public class if_else_if_else_statement {
                 System.out.println("YourMarks: pass");
                 System.out.println("Your Percentage is: " + y);
 
-            } else if (y >= 50 && y < 80) {
+            } else if (y >= 50 && y < 70) {
                 System.out.println("YourMarks: good");
                 System.out.println("Your Percentage is: " + y);
+            } else if (y >= 70 && y < 90) {
+                System.out.println("YourMarks: Distinsion");
+                System.out.println("Your Percentage is: " + y);
+            }
 
-            } else if (y >= 80 && y < 100) {
+            else if (y >= 90 && y <= 100) {
                 System.out.println("YourMarks: Exilent");
                 System.out.println("Your Percentage is: " + y);
             } else {

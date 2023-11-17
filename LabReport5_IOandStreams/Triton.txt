@@ -1,0 +1,6 @@
+Jhapa{
+    roll:18,
+    name:"Nabin",
+    address:"Tinkune",
+    collage:"Triton"
+}
